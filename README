@@ -1,0 +1,55 @@
+Requer Python versão 3.7.2 ou acima.
+
+Help to Check é um aplicativo feito em Python para realizar pequenas atualizações nos preços de produtos.
+O aplicativo está disponível para as seguintes lojas brasileiras:
+Americanas
+Submarino
+Shoptime
+Magazine Luiza
+Walmart
+Amazon
+
+Comandos Disponíveis
+
+COMANDO          ATALHO
+@exit
+@setlink         @set
+@unsetlink       @unset
+@links
+@commands        @cmds
+@clearlinks      @unsetall
+@clearcon        @cc
+@start
+@searchtime      @st
+@weblist
+
+Versão da aplicação: l1.3
+
+-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=
+
+Requires Python version 3.7.2 or above.
+
+Help to Check is an application made in Python to perform minor updates on product prices.
+The application is available for the following Brazilian stores:
+American
+Submarine
+Shoptime
+Magazine Luiza
+Walmart
+Amazon
+
+Available Commands
+
+COMMAND          SHORTCUT
+@exit
+@setlink         @set
+@unsetlink       @unset
+@links
+@commands        @cmds
+@clearlinks      @unsetall
+@clearcon        @cc
+@start
+@searchtime      @st
+@weblist
+
+Application Version: r1.3
